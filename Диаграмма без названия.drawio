@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T19:42:39.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="SQ1f3JNnyXZuakyib80L" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T20:00:32.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="jCIrRMN7Keb2jl6fv7Vg" version="20.7.3" type="github">
   <diagram id="JlM-V_NoU1FeULhczOWX" name="Страница 1">
-    <mxGraphModel dx="866" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="flnWNuCMUBUqU85HIkac-25" value="Собаки" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="20" y="130" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="flnWNuCMUBUqU85HIkac-26" value="Категории" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#000000;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="flnWNuCMUBUqU85HIkac-26" value="Категория" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#000000;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="20" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="flnWNuCMUBUqU85HIkac-27" value="Кошки" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="6RNCGOG-WSd5X_5wuMal-27" value="Собаки" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6RNCGOG-WSd5X_5wuMal-28" value="Категории" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#000000;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-28" value="Категория" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#000000;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="235" y="95" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6RNCGOG-WSd5X_5wuMal-29" value="Кошки" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
@@ -198,6 +198,60 @@
         </mxCell>
         <mxCell id="6RNCGOG-WSd5X_5wuMal-48" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#FFFFFF;labelBackgroundColor=none;fillColor=#182E3E;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="642" y="10" width="200" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-49" value="Отмена" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="51.85" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-50" value="Категория&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-51" value="Все объявления&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="105" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-52" value="Собаки" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-53" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="105" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-54" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-57" value="Кошки" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="155" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-58" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="155" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-59" value="Овцы" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-60" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-61" value="Коровы" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="205" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-62" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="205" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-63" value="Лошади" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-64" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="230" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-65" value="Корм" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="255" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-66" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="255" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-67" value="Корм" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fontFamily=Helvetica;fontSize=7;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6RNCGOG-WSd5X_5wuMal-68" value="12457 &amp;nbsp;результат" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="525" y="280" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
