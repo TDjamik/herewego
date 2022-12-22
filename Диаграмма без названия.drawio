@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T17:24:50.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="f7Cy4mN5mX-55bDC0hl_" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T17:26:53.847Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Z97SF9a5DrxrjYTRWvYS" version="20.7.4" type="github">
   <diagram id="JlM-V_NoU1FeULhczOWX" name="Страница 1">
-    <mxGraphModel dx="1083" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -594,6 +594,9 @@
         </mxCell>
         <mxCell id="UILDMmUPJ-7iSMZBW561-24" value="Подробнее......" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="964" y="402" width="49" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="UILDMmUPJ-7iSMZBW561-25" value="Список данного товара" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="896" y="485" width="129" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
